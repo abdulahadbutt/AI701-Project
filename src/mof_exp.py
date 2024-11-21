@@ -32,15 +32,35 @@ def get_chunk(lst, n, k):
 
 
 def eval_model(args):
+
+    data_directory = args.directory
+    imgs_path = f'{data_directory}/MMVP Images'
+
+    print(data_directory)
+    if args.question_file.lower() == 'custom':
+        benchmark_dir = '/home/paperspace/AI701/dataset/CustomQuestions.csv'
+    elif args.question_file.lower() == 'original':
+        benchmark_dir = os.path.join(data_directory, 'Questions.csv')
+    else:
+        print('Question File not listed or is incorrect')
+        exit()
     # Model
     disable_torch_init()
     model_path = os.path.expanduser(args.model_path)
     model_name = get_model_name_from_path(model_path)
 
     
-    tokenizer, model, image_processor, context_len = load_pretrained_model(model_path, args.model_base, model_name)
-    
-    benchmark_dir = os.path.join(args.directory, 'Questions.csv')
+
+    # tokenizer, model, image_processor, context_len = load_pretrained_model(model_path, args.model_base, model_name)
+
+
+    tokenizer, model, image_processor, context_len = load_pretrained_model(
+        model_path=model_path,
+        model_base=None,
+        model_name=get_model_name_from_path(model_path)
+    )
+    # benchmark_dir = os.path.join(args.directory, 'Questions.csv')
+    # benchmark_dir = '/home/paperspace/AI701/dataset/CustomQuestions.csv'
     # Load and read the CSV
     df = pd.read_csv(benchmark_dir)  # Assuming the fields are separated by tabs
     answers_file = os.path.expanduser(args.answers_file)
@@ -101,6 +121,7 @@ def eval_model(args):
             print(f'[Warning] {n_diff_input_output} output_ids are not the same as the input_ids')
         outputs = tokenizer.batch_decode(output_ids[:, input_token_len:], skip_special_tokens=True)[0]
         outputs = outputs.strip()
+
         if outputs.endswith(stop_str):
             outputs = outputs[:-len(stop_str)]
         outputs = outputs.strip()
