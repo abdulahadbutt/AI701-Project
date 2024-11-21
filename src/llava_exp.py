@@ -79,7 +79,6 @@ def eval_model(args):
                                     "dataset": args.question_file.lower(),
                                     }) + "\n")
         ans_file.flush()
-        break 
     ans_file.close()
 
 
