@@ -1,0 +1,301 @@
+Index,Question,Correct Answer,Response
+1,Are the butterfly's wings closer to being open or closed? (a) Open (b) Closed,(a),The butterfly's wings are closer to being open.
+2,Are the butterfly's wings closer to being open or closed? (a) Open (b) Closed,(b),The butterfly's wings are closer to being open.
+3,Is the flame of the match more round or thin? (a) Round (b) Thin,(a),The flame of the match is more round in shape.
+4,Is the flame of the match more round or thin? (a) Round (b) Thin,(b),The flame of the match is more round in shape.
+5,Is the dog facing left or right from the camera's perspective? (a) Left (b) Right,(a),"From the camera's perspective, the dog is facing right."
+6,Is the dog facing left or right from the camera's perspective? (a) Left (b) Right,(b),The dog is facing right from the camera's perspective.
+7,Is the school bus driving towards or away from the camera? (a) Towards the camera (b) Away from the camera,(a),The school bus is driving towards the camera.
+8,Is the school bus driving towards or away from the camera? (a) Towards the camera (b) Away from the camera,(b),The school bus is driving away from the camera.
+9,"Can you see the key ""Z"" in the image? (a) Yes (b) No",(a),Yes
+10,"Can you see the key ""Z"" in the image? (a) Yes (b) No",(b),No
+11,Has the peacock opened its tail? (a) Yes (b) No,(a),Yes
+12,Has the peacock opened its tail? (a) Yes (b) No,(b),"No, the peacock has not opened its tail in the image."
+13,Is the image more likely of a single ear of corn or multiple ears (a) Single (b) Multiple,(a),"The image is more likely of a single ear of corn, as it shows a close-up view of the corn's kernels and the"
+14,Is the image more likely of a single ear of corn or multiple ears (a) Single (b) Multiple,(b),"The image is more likely of a single ear of corn, as it is described as a close-up of a single ear of corn."
+15,Is there a shadow on the flower? (a) Yes (b) No,(a),"Yes, there is a shadow on the flower."
+16,Is there a shadow on the flower? (a) Yes (b) No,(b),Yes
+17,Is the front of the school bus protruding? (a) Yes (b) No,(a),"Yes, the front of the school bus is protruding."
+18,Is the front of the school bus protruding? (a) Yes (b) No,(b),"Yes, the front of the school bus is protruding."
+19,Can you see the dorsal fin of the animal? (a) Yes (b) No,(a),Yes
+20,Can you see the dorsal fin of the animal? (a) Yes (b) No,(b),B
+21,Is the duck's entire beak visible in the picture? (a) Yes (b) No,(a),"No, the duck's beak is not visible in the picture."
+22,Is the duck's entire beak visible in the picture? (a) Yes (b) No,(b),"No, the duck's beak is not visible in the picture."
+23,From which angle is this image taken? (a) Front (b) Side,(a),"The image is taken from an angle that shows the snake's head and neck, with the snake's body and tail not visible."
+24,From which angle is this image taken? (a) Front (b) Side,(b),"The image is taken from an angle that shows the snake's head and neck, with the snake's body and tail not visible."
+25,What color is the chicken's body? (a) Black (b) Red,(a),The chicken's body is black.
+26,What color is the chicken's body? (a) Black (b) Red,(b),The chicken's body is red.
+27,Is the peacock's head visible in the image? (a) Yes (b) No,(a),"Yes, the peacock's head is visible in the image."
+28,Is the peacock's head visible in the image? (a) Yes (b) No,(b),"No, the peacock's head is not visible in the image. The image only shows the peacock's feathers."
+29,"Based on the image, is the following statement correct: We cannot see the window on the school bus? (a) Correct (b) Incorrect",(a),"(b) Incorrect. The image shows a school bus with a window, which is visible."
+30,"Based on the image, is the following statement correct: We cannot see the window on the school bus? (a) Correct (b) Incorrect",(b),"B) Incorrect. In the image, we can see the window of the school bus."
+31,Is the wind blowing the flag? (a) Yes (b) No,(a),"Yes, the wind is blowing the flag, as it is waving in the sky."
+32,Is the wind blowing the flag? (a) Yes (b) No,(b),"Yes, the wind is blowing the flag, as it is waving in the air."
+33,Is the butterfly's abdomen visible in the image? (a) Yes (b) No,(a),"Yes, the butterfly's abdomen is visible in the image."
+34,Is the butterfly's abdomen visible in the image? (a) Yes (b) No,(b),"Yes, the butterfly's abdomen is visible in the image."
+35,Do the vegetables have spikes? (a) Yes (b) No,(a),(b) No
+36,Do the vegetables have spikes? (a) Yes (b) No,(b),(b) No
+37,What color are the flowers in the background? (a) Pink (b) Violet,(a),The flowers in the background are pink.
+38,What color are the flowers in the background? (a) Pink (b) Violet,(b),The flowers in the background are purple.
+39,Is the duck floating? (a) Yes (b) No,(a),"Yes, the duck is floating in the water."
+40,Is the duck floating? (a) Yes (b) No,(b),B
+41,"Based on the image, is the following statement correct: The spider has 8 legs? (a) Yes (b) No",(a),"Yes, the spider has 8 legs."
+42,"Based on the image, is the following statement correct: The spider has 8 legs? (a) Yes (b) No",(b),"Yes, the spider has 8 legs."
+43,Are the wheels of the school bus visible in the image? (a) Yes (b) No,(a),"Yes, the wheels of the school bus are visible in the image."
+44,Are the wheels of the school bus visible in the image? (a) Yes (b) No,(b),"No, the wheels of the school bus are not visible in the image."
+45,Is the shark's belly visible in this image? (a) Yes (b) No,(a),"Yes, the shark's belly is visible in this image."
+46,Is the shark's belly visible in this image? (a) Yes (b) No,(b),"Yes, the shark's belly is visible in this image."
+47,How many spots are on the animal in the image? (a) 5 (b) 6,(a),There are six spots on the animal in the image.
+48,How many spots are on the animal in the image? (a) 5 (b) 6,(b),There are six spots on the animal in the image.
+49,Are the arrow keys visible in the image? (a) Yes (b) No,(a),"No, the arrow keys are not visible in the image."
+50,Are the arrow keys visible in the image? (a) Yes (b) No,(b),"No, the arrow keys are not visible in the image."
+51,Is the elephant's trunk curled in the picture? (a) Yes (b) No,(a),"Yes, the elephant's trunk is curled in the picture."
+52,Is the elephant's trunk curled in the picture? (a) Yes (b) No,(b),"Yes, the elephant's trunk is curled in the picture."
+53,Is the number of pills in the image in the range of countable? (a) Yes (b) No,(a),Yes
+54,Is the number of pills in the image in the range of countable? (a) Yes (b) No,(b),Yes
+55,Can you see stems of bananas in the image? (a) Yes (b) No,(a),"Yes, you can see the stems of bananas in the image."
+56,Can you see stems of bananas in the image? (a) Yes (b) No,(b),(b) No
+57,Is the crocodile submerged in the water? (a) Yes (b) No,(a),"No, the crocodile is not submerged in the water. It is sitting on the bank of the river, surrounded by plants and branches"
+58,Is the crocodile submerged in the water? (a) Yes (b) No,(b),"No, the crocodile is not submerged in the water. It is sitting on the bank of the river, surrounded by grass and leaves"
+59,Is the lock locked to the chain-linked fence? (a) Yes (b) No,(a),"Yes, the lock is locked to the chain-linked fence."
+60,Is the lock locked to the chain-linked fence? (a) Yes (b) No,(b),"Yes, the lock is locked to the chain-linked fence."
+61,"Can you see letter ""J"" in the image? (a) Yes (b) No",(a),Yes
+62,"Can you see letter ""J"" in the image? (a) Yes (b) No",(b),No
+63,"Is the following statement correct: In the image, there is one daisy that is under the shadow of a taller daisy.  (a) Correct (b) Incorrect",(a),"(b) Incorrect. The image shows a field of white daisies, and there is no indication of a taller daisy casting"
+64,"Is the following statement correct: In the image, there is one daisy that is under the shadow of a taller daisy.  (a) Correct (b) Incorrect",(b),"(b) Incorrect. The image shows a group of white daisies in a field, but there is no indication of a taller"
+65,Is the following statement correct: There is no letter D on this image.  (a) Correct (b) Incorrect,(a),(b) Incorrect. The image shows a close-up of a keyboard with the letter D visible.
+66,Is the following statement correct: There is no letter D on this image.  (a) Correct (b) Incorrect,(b),B) Incorrect. The image shows a close-up of a keyboard with the letter D visible.
+67,Are there any clouds? (a) Yes (b) No,(a),Yes
+68,Are there any clouds? (a) Yes (b) No,(b),No
+69,Did the snake stick out its tongue and touch its skin? (a) Yes (b) No,(a),Yes
+70,Did the snake stick out its tongue and touch its skin? (a) Yes (b) No,(b),Yes
+71,Is the lock locked or unlocked? (a) Locked (b) Unlocked,(a),"The lock is locked, as indicated by the red lock on the door."
+72,Is the lock locked or unlocked? (a) Locked (b) Unlocked,(b),The lock in the image is locked.
+73,Is the ground wet? (a) Yes (b) No,(a),Yes
+74,Is the ground wet? (a) Yes (b) No,(b),The ground is wet in the image.
+75,Do you see this flower from the top or the side? (a) Top (b) Side,(a),(b) Side
+76,Do you see this flower from the top or the side? (a) Top (b) Side,(b),(b) Side
+77,Can you see the caudal fin of the shark in the image? (a) Yes (b) No,(a),Yes
+78,Can you see the caudal fin of the shark in the image? (a) Yes (b) No,(b),Yes
+79,"In the image, is the snake's head oriented facing upwards or directed forwards? (a) Upwards (b) Forward",(a),"In the image, the snake's head is oriented facing upwards."
+80,"In the image, is the snake's head oriented facing upwards or directed forwards? (a) Upwards (b) Forward",(b),"In the image, the snake's head is oriented facing upwards."
+81,Is this a hammerhead shark? (a) Yes (b) No,(a),Yes
+82,Is this a hammerhead shark? (a) Yes (b) No,(b),B
+83,Is the door of the truck cab open? (a) Yes (b) No,(a),"Yes, the door of the truck cab is open."
+84,Is the door of the truck cab open? (a) Yes (b) No,(b),"Yes, the door of the truck cab is open."
+85,Are the ears of the dog erect or drooping? (a) Erect (b) Drooping,(a),The ears of the dog are drooping.
+86,Are the ears of the dog erect or drooping? (a) Erect (b) Drooping,(b),The ears of the dog are drooping.
+87,Is there a hand using the mouse in the image? (a) Yes (b) No,(a),"Yes, there is a hand using a mouse in the image."
+88,Is there a hand using the mouse in the image? (a) Yes (b) No,(b),"No, there is no hand using a mouse in the image. The image only shows a close-up of a keyboard."
+89,Can you see people in this image? (a) Yes (b) No,(a),Yes
+90,Can you see people in this image? (a) Yes (b) No,(b),B
+91,Are there any words displayed on the vehicle's lightbar? (a) Yes (b) No,(a),Yes
+92,Are there any words displayed on the vehicle's lightbar? (a) Yes (b) No,(b),Yes
+93,Is there any accessory on the wrists? (a) Yes (b) No,(a),"Yes, there is a watch on the person's wrist."
+94,Is there any accessory on the wrists? (a) Yes (b) No,(b),No
+95,"From the camera's perspective, is the spider web very dense or relatively sparse? (a) Very dense (b) Relatively sparse",(a),"From the camera's perspective, the spider web appears to be very dense."
+96,"From the camera's perspective, is the spider web very dense or relatively sparse? (a) Very dense (b) Relatively sparse",(b),"From the camera's perspective, the spider web appears to be very dense, with a lot of spider webs covering the area."
+97,Does the keyboard have a backlight? (a) Yes (b) No,(a),Yes
+98,Does the keyboard have a backlight? (a) Yes (b) No,(b),Yes
+99,Does the elephant have long or short tusks? (a) Long (b) Short,(a),The elephant in the image has long tusks.
+100,Does the elephant have long or short tusks? (a) Long (b) Short,(b),The elephant in the image has long tusks.
+101,What is the woman more likely to do? (a) Bump (b) Set,(a),"In the image, the woman is more likely to bump the ball, as she is in the process of hitting the ball with her hand. B"
+102,What is the woman more likely to do? (a) Bump (b) Set,(b),"In the image, the woman is more likely to bump the ball, as she is in a defensive position and is reaching up to block the"
+103,Is the needle pointing up or down? (a) Up (b) Down,(a),The needle is pointing up.
+104,Is the needle pointing up or down? (a) Up (b) Down,(b),The needle is pointing up in the image.
+105,Is the camera positioned at eye level or looking down from above? (a) Eye level (b) Above,(a),"The camera is positioned at eye level, capturing the green apple from a close-up perspective."
+106,Is the camera positioned at eye level or looking down from above? (a) Eye level (b) Above,(b),"The camera is positioned at eye level, capturing the green apple from a close-up perspective."
+107,Are the butterfly's feet visible? (a) Yes (b) No,(a),"Yes, the butterfly's feet are visible in the image."
+108,Are the butterfly's feet visible? (a) Yes (b) No,(b),"Yes, the butterfly's feet are visible in the image."
+109,Are the bird's wings flapping upward or downward? (a) Upward (b) Downward,(a),The bird's wings are flapping upward.
+110,Are the bird's wings flapping upward or downward? (a) Upward (b) Downward,(b),The bird's wings are flapping upward.
+111,Is the end of the elephant's trunk pointing inward or outward? (a) Inward (b) Outward,(a),The end of the elephant's trunk is pointing inward.
+112,Is the end of the elephant's trunk pointing inward or outward? (a) Inward (b) Outward,(b),The end of the elephant's trunk is pointing inward.
+113,Do you see any window in this image? (a) Yes (b) No,(a),"Yes, there is a window in the image."
+114,Do you see any window in this image? (a) Yes (b) No,(b),(b) No
+115,Is the snail in the picture facing the camera or away from the camera? (a) Away from the camera (b) Facing the camera ,(a),The snail in the picture is facing the camera.
+116,Is the snail in the picture facing the camera or away from the camera? (a) Away from the camera (b) Facing the camera ,(b),The snail in the picture is facing away from the camera.
+117,How many eyes of the cat can you see in the picture? (a) 1 (b) 2,(a),"In the picture, you can see the cat's right eye."
+118,How many eyes of the cat can you see in the picture? (a) 1 (b) 2,(b),"In the picture, you can see the cat's two eyes."
+119,"In this image, how many eyes can you see on the animal? (a) 1 (b) 2",(a),"In the image, there are two eyes visible on the bird."
+120,"In this image, how many eyes can you see on the animal? (a) 1 (b) 2",(b),"In the image, there are two eyes visible on the animal."
+121,Does this corn have white kernels? (a) Yes (b) No,(a),Yes
+122,Does this corn have white kernels? (a) Yes (b) No,(b),Yes
+123,Is this duck facing left or right from the camera's perspective? (a) Left (b) Right,(a),"From the camera's perspective, the duck is facing right."
+124,Is this duck facing left or right from the camera's perspective? (a) Left (b) Right,(b),"From the camera's perspective, the duck is facing right."
+125,Can you see a door in this image? (a) Yes (b) No,(a),Yes
+126,Can you see a door in this image? (a) Yes (b) No,(b),Yes
+127,Is the flower's center protruding or indented? (a) Protruding (b) Indented,(a),The flower's center is protruding.
+128,Is the flower's center protruding or indented? (a) Protruding (b) Indented,(b),The flower's center is protruding.
+129,"From the camera's perspective, are the words ""SCHOOL BUS"" in the picture facing straight or oriented at an angle? (a) Directly towards the camera (b) At an angle",(a),(b) At an angle
+130,"From the camera's perspective, are the words ""SCHOOL BUS"" in the picture facing straight or oriented at an angle? (a) Directly towards the camera (b) At an angle",(b),(b) At an angle
+131,Where is the yellow animal's head lying in this image? (a) Floor (b) Carpet,(a),The yellow animal's head is lying on the floor in this image.
+132,Where is the yellow animal's head lying in this image? (a) Floor (b) Carpet,(b),"In the image, the yellow animal's head is lying on the floor."
+133,What does the center button say? (a) OK/SELECT (b) OK,(a),"The center button says ""OK/SELECT."""
+134,What does the center button say? (a) OK/SELECT (b) OK,(b),"The center button on the remote control says ""OK/SELECT."""
+135,How many cup(s) of drink are there in the image? (a) 1 (b) 2,(a),There is only one cup of drink in the image.
+136,How many cup(s) of drink are there in the image? (a) 1 (b) 2,(b),There are two cup(s) of drink in the image.
+137,"In the picture, how is the snake primarily positioned? (a) Coiled (b) Head extended",(a),"In the picture, the snake is primarily positioned with its head extended."
+138,"In the picture, how is the snake primarily positioned? (a) Coiled (b) Head extended",(b),"In the picture, the snake is primarily positioned with its head extended, as it is seen sticking its head out from behind a branch."
+139,Can you see the side windows of the vehicles? (a) Yes (b) No,(a),"Yes, you can see the side windows of the vehicles in the image."
+140,Can you see the side windows of the vehicles? (a) Yes (b) No,(b),Yes
+141,Is the elephant's trunk raised or lowered? (a) Raised (b) Lowered,(a),The elephant's trunk is raised in the image.
+142,Is the elephant's trunk raised or lowered? (a) Raised (b) Lowered,(b),The elephant's trunk is lowered.
+143,Is the ladybug positioned upright or upside down? (a) Upright (b) Upside down,(a),The ladybug is positioned upside down on the leaf.
+144,Is the ladybug positioned upright or upside down? (a) Upright (b) Upside down,(b),The ladybug is positioned upside down on the leaf.
+145,Is the photo taken looking down from above or looking up from below? (a) Looking down from above (b) Looking up from below,(a),"The photo is taken looking up from below, as the wine glass is filled with wine and is placed on a table."
+146,Is the photo taken looking down from above or looking up from below? (a) Looking down from above (b) Looking up from below,(b),"The photo is taken looking up from below, as it captures the wine glass and umbrella from a perspective below them."
+147,"In the picture, is the snake's head visible or not visible? (a) Visible (b) Not visible",(a),"In the picture, the snake's head is not visible."
+148,"In the picture, is the snake's head visible or not visible? (a) Visible (b) Not visible",(b),"In the picture, the snake's head is not visible."
+149,Is the piano's back panel on the left or right side? (a) Left (b) Right,(a),(b) Right
+150,Is the piano's back panel on the left or right side? (a) Left (b) Right,(b),(b) Right
+151,The image captures a woman running from: (a) Back view (b) Side view,(a),The image captures a woman running from a side view.
+152,The image captures a woman running from: (a) Back view (b) Side view,(b),The image captures a woman running from a side view.
+153,How many red apples are there in the image? (a) One (b) More than one,(a),There are two red apples in the image.
+154,How many red apples are there in the image? (a) One (b) More than one,(b),There are more than one red apples in the image.
+155,Is the vase beside the bedside table or on the windowsill? (a) Beside the bedside Table (b) On the Windowsill,(a),The vase is beside the bedside table.
+156,Is the vase beside the bedside table or on the windowsill? (a) Beside the bedside Table (b) On the Windowsill,(b),The vase is on the windowsill.
+157,Is the frame at the front of the motorcycle primarily silver or black in color? (a) Silver (b) Black,(a),The frame at the front of the motorcycle is primarily silver in color.
+158,Is the frame at the front of the motorcycle primarily silver or black in color? (a) Silver (b) Black,(b),The frame at the front of the motorcycle is primarily black in color.
+159,"For the people operating the machine in the image, can you see one arm or both arms? (a) One arm (b) Both arms",(a),"(b) Both arms are visible in the image, as the man is working on the machine with both arms."
+160,"For the people operating the machine in the image, can you see one arm or both arms? (a) One arm (b) Both arms",(b),"In the image, both arms of the people operating the machine are visible."
+161,Is the minute hand of the clock closer to 12 or closer to 1? (a) 12 (b) 1 ,(a),"The minute hand of the clock is closer to 12, which indicates that the time is around 11:55."
+162,Is the minute hand of the clock closer to 12 or closer to 1? (a) 12 (b) 1 ,(b),"The minute hand of the clock is closer to 12, which indicates that the time is around 11:55."
+163,Is the Christmas tree positioned in front of a large window or in front of a wall situated between two windows? (a) In front of a large window (b) In front of a wall between two windows,(a),The Christmas tree is positioned in front of a large window.
+164,Is the Christmas tree positioned in front of a large window or in front of a wall situated between two windows? (a) In front of a large window (b) In front of a wall between two windows,(b),The Christmas tree is positioned in front of a large window.
+165,"In this image, are the berries placed (a) On a dish (b) In bowls of yogurts",(a),"In the image, the berries are placed in bowls of yogurt."
+166,"In this image, are the berries placed (a) On a dish (b) In bowls of yogurts",(b),"In the image, the berries are placed in bowls of yogurt."
+167,Are some fruits cut open or are all the fruits uncut? (a) Some are cut open (b) All are uncut,(a),(a) Some are cut open.
+168,Are some fruits cut open or are all the fruits uncut? (a) Some are cut open (b) All are uncut,(b),(a) Some are cut open.
+169,Is there a knee visible in the image? (a) Yes (b) No,(a),"Yes, there is a knee visible in the image."
+170,Is there a knee visible in the image? (a) Yes (b) No,(b),"No, there is no knee visible in the image. The focus is on the man and woman hugging each other."
+171,Does the snowman in the picture have a mouth? (a) Yes (b) No,(a),"Yes, the snowman in the picture has a mouth."
+172,Does the snowman in the picture have a mouth? (a) Yes (b) No,(b),"No, the snowman in the picture does not have a mouth."
+173,Is the decoration on the Easter egg flat or raised? (a) Flat (b) Raised,(a),The decoration on the Easter egg is raised.
+174,Is the decoration on the Easter egg flat or raised? (a) Flat (b) Raised,(b),The decoration on the Easter egg is raised.
+175,"In the image, is the nail polish on the toes dark or light in color? (a) Dark (b) Light",(a),The nail polish on the toes is dark in color.
+176,"In the image, is the nail polish on the toes dark or light in color? (a) Dark (b) Light",(b),"In the image, the nail polish on the toes is light in color."
+177,"In the picture, is the person facing the ocean or turned sideways to the ocean? (a) Facing the ocean (b) Turned sideways to the ocean",(a),"In the picture, the person is facing the ocean."
+178,"In the picture, is the person facing the ocean or turned sideways to the ocean? (a) Facing the ocean (b) Turned sideways to the ocean",(b),"In the picture, the person is facing the ocean."
+179,How many wheels can you see in the image? (a) 1 (b) 2,(a),(b) 2
+180,How many wheels can you see in the image? (a) 1 (b) 2,(b),(b) 2
+181,Is the stripe in the middle of the car blue or white? (a) Blue (b) White,(a),The stripe in the middle of the car is blue.
+182,Is the stripe in the middle of the car blue or white? (a) Blue (b) White,(b),The stripe in the middle of the car is white.
+183,Are the teddy bears holding hands or leaning against each other? (a) Holding hands (b) Leaning against,(a),The teddy bears are holding hands.
+184,Are the teddy bears holding hands or leaning against each other? (a) Holding hands (b) Leaning against,(b),The teddy bears are leaning against each other.
+185,Is the person in the picture already standing on the weighing scale? (a) Yes (b) No,(a),"Yes, the person in the picture is already standing on the weighing scale."
+186,Is the person in the picture already standing on the weighing scale? (a) Yes (b) No,(b),The person in the picture is not yet standing on the weighing scale. They are in the process of stepping onto it with their bare feet
+187,"In the picture, is the person stretching out one arm or both arms above their head? (a) One arm (b) Both arms",(a),"In the picture, the person is stretching out both arms above their head."
+188,"In the picture, is the person stretching out one arm or both arms above their head? (a) One arm (b) Both arms",(b),"In the picture, the person is stretching out both arms above their head."
+189,Is the person in the picture on the grass or on the gravel path? (a) Grass (b) Gravel path,(a),The person in the picture is on the grass.
+190,Is the person in the picture on the grass or on the gravel path? (a) Grass (b) Gravel path,(b),The person in the picture is walking on a gravel path.
+191,Is there a flower next to the Easter egg in the picture? (a) Yes (b) No,(a),Yes
+192,Is there a flower next to the Easter egg in the picture? (a) Yes (b) No,(b),"Yes, there is a flower next to the Easter egg in the picture."
+193,Are these vegetables placed on the floor or on the soil? (a) Floor (b) Soil,(a),"These vegetables are placed on a wooden table, not on the floor or soil."
+194,Are these vegetables placed on the floor or on the soil? (a) Floor (b) Soil,(b),These vegetables are placed on the soil.
+195,Are juice and all carrots on the same surface? (a) Yes (b) No,(a),(b) No
+196,Are juice and all carrots on the same surface? (a) Yes (b) No,(b),(b) No
+197,Is the person weighing themselves barefoot? (a) Yes (b) No,(a),"Yes, the person is weighing themselves barefoot."
+198,Is the person weighing themselves barefoot? (a) Yes (b) No,(b),"No, the person is not weighing themselves barefoot. They are wearing white sandals while standing on the scale."
+199,Which type of eggs are in the corner of the picture? (a) Quail eggs (b) Chicken eggs ,(a),A) Quail eggs
+200,Which type of eggs are in the corner of the picture? (a) Quail eggs (b) Chicken eggs ,(b),B) Chicken eggs are in the corner of the picture.
+201,"What are the words in the image: (a) ""Happy Easter"" (b) ""Happy Easter!""",(a),"The words in the image are ""Happy Easter."""
+202,"What are the words in the image: (a) ""Happy Easter"" (b) ""Happy Easter!""",(b),"The words in the image are ""Happy Easter!"""
+203,Are these oranges hanging on the tree? (a) Yes (b) No,(a),"Yes, these oranges are hanging on a tree."
+204,Are these oranges hanging on the tree? (a) Yes (b) No,(b),"No, these oranges are not hanging on a tree. They are piled together in a group, sitting on a table or a surface."
+205,Is the coffee cup made of glass? (a) Yes (b) No,(a),Yes
+206,Is the coffee cup made of glass? (a) Yes (b) No,(b),B) No
+207,Is the bell pepper in the picture red or yellow? (a) Red (b) Yellow,(a),The bell pepper in the picture is red.
+208,Is the bell pepper in the picture red or yellow? (a) Red (b) Yellow,(b),The bell pepper in the picture is yellow.
+209,Is there an orange with leaves next to the cup? (a) Yes (b) No,(a),Yes
+210,Is there an orange with leaves next to the cup? (a) Yes (b) No,(b),B
+211,Is the heart-shaped object resting on the palm or being held by the fingers? (a) Palm (b) Fingers,(a),The heart-shaped object is being held by the fingers.
+212,Is the heart-shaped object resting on the palm or being held by the fingers? (a) Palm (b) Fingers,(b),The heart-shaped object is being held by the fingers of the person in the image.
+213,Does the snowman have arms made of branches? (a) Yes (b) No,(a),"No, the snowman does not have arms made of branches. The snowman in the image has arms made of sticks."
+214,Does the snowman have arms made of branches? (a) Yes (b) No,(b),"No, the snowman does not have arms made of branches. It has a scarf around its neck and a hat on its head."
+215,Are there black stripes on the roof of the car? (a) Yes (b) No,(a),Yes
+216,Are there black stripes on the roof of the car? (a) Yes (b) No,(b),Yes
+217,Is the knife laid flat or standing up? (a) Flat (b) Standing up,(a),The knife is standing up on the cutting board.
+218,Is the knife laid flat or standing up? (a) Flat (b) Standing up,(b),The knife is standing up.
+219,Is the person in the image running towards or away from the camera? (a) Towards (b) Away from,(a),The person in the image is running towards the camera.
+220,Is the person in the image running towards or away from the camera? (a) Towards (b) Away from,(b),The person in the image is running towards the camera.
+221,"In the photo, is one of the man's hands blocked by the woman? (a) Yes (b) No",(a),"Yes, one of the man's hands is blocked by the woman in the photo."
+222,"In the photo, is one of the man's hands blocked by the woman? (a) Yes (b) No",(b),"No, one of the man's hands is not blocked by the woman. The man is holding a bicycle handlebar, and the woman"
+223,Is there a pomegranate in the picture? (a) Yes (b) No,(a),"Yes, there is a pomegranate in the picture."
+224,Is there a pomegranate in the picture? (a) Yes (b) No,(b),"Yes, there is a pomegranate in the picture."
+225,Are all the cups and bottles in the picture the same height? (a) Yes (b) No,(a),"No, not all cups and bottles in the picture are the same height."
+226,Are all the cups and bottles in the picture the same height? (a) Yes (b) No,(b),"No, not all cups and bottles in the picture are the same height."
+227,Does the person in the picture have something in their hand? (a) Yes (b) No,(a),Yes
+228,Does the person in the picture have something in their hand? (a) Yes (b) No,(b),"Yes, the person in the picture has something in their hand."
+229,Do all the bottles in the picture face the same direction? (a) Yes (b) No,(a),B) No
+230,Do all the bottles in the picture face the same direction? (a) Yes (b) No,(b),(b) No
+231,"Are all easter eggs placed in a container (e.g nest, basket)? (a) Yes (b) No",(a),Yes
+232,"Are all easter eggs placed in a container (e.g nest, basket)? (a) Yes (b) No",(b),Yes
+233,Is the sky in the background dark blue or light blue? (a) Dark blue (b) Light blue,(a),(b) Light blue
+234,Is the sky in the background dark blue or light blue? (a) Dark blue (b) Light blue,(b),(b) Light blue
+235,Do the individuals in the picture face the front or the back? (a) Front (b) Back,(a),The individuals in the picture face the front.
+236,Do the individuals in the picture face the front or the back? (a) Front (b) Back,(b),The individuals in the picture face the front.
+237,Is the ground completely covered by red fallen leaves? (a) Yes (b) No,(a),"The ground is not completely covered by red fallen leaves. There are some areas where the leaves are not present, such as the dirt path in the"
+238,Is the ground completely covered by red fallen leaves? (a) Yes (b) No,(b),"No, the ground is not completely covered by red fallen leaves. The image shows a dirt road surrounded by trees with red leaves, but the ground"
+239,Are the leather shoes placed side by side or is one on top of the other? (a) Side by side (b) One on top of the other,(a),The leather shoes are placed side by side on a table.
+240,Are the leather shoes placed side by side or is one on top of the other? (a) Side by side (b) One on top of the other,(b),The leather shoes are placed side by side.
+241,Is the photo taken directly above the coffee or from the side? (a) Above (b) From the side,(a),"The photo is taken directly above the coffee, providing a close-up view of the cup of coffee."
+242,Is the photo taken directly above the coffee or from the side? (a) Above (b) From the side,(b),"The photo is taken directly above the coffee, capturing the steam rising from the cup."
+243,Is the rabbit in the image facing left or right? (a) Left (b) Right,(a),The rabbit in the image is facing right.
+244,Is the rabbit in the image facing left or right? (a) Left (b) Right,(b),The rabbit in the image is facing right.
+245,Is the elderly person in the picture standing or sitting? (a) Standing (b) Sitting,(a),The elderly person in the picture is sitting in a walker.
+246,Is the elderly person in the picture standing or sitting? (a) Standing (b) Sitting,(b),The elderly person in the picture is sitting in a wheelchair.
+247,Are there any fruits or vegetables in the heart-shaped part of the picture? (a) Yes (b) No,(a),Yes
+248,Are there any fruits or vegetables in the heart-shaped part of the picture? (a) Yes (b) No,(b),Yes
+249,Is the very top of the cake strawberries or cream? (a) Strawberries (b) Cream,(a),(a) Strawberries
+250,Is the very top of the cake strawberries or cream? (a) Strawberries (b) Cream,(b),(b) Cream
+251,Is the beverage in the picture contained in a mug or a glass? (a) Mug (b) Glass,(a),The beverage in the picture is contained in a glass.
+252,Is the beverage in the picture contained in a mug or a glass? (a) Mug (b) Glass,(b),The beverage in the picture is contained in a glass.
+253,Is the design in the picture Santa Claus or a snowman? (a) Santa Claus (b) Snowman,(a),The design in the picture is Santa Claus.
+254,Is the design in the picture Santa Claus or a snowman? (a) Santa Claus (b) Snowman,(b),The design in the picture is a snowman.
+255,Are there cookies stacked on top of other cookies? (a) Yes (b) No,(a),Yes
+256,Are there cookies stacked on top of other cookies? (a) Yes (b) No,(b),Yes
+257,Is there a lemon inside the drink in the cup or are all the lemons outside the drink? (a) There is one inside (b) All are outside,(a),(b) All the lemons are outside the drink.
+258,Is there a lemon inside the drink in the cup or are all the lemons outside the drink? (a) There is one inside (b) All are outside,(b),(b) All the lemons are outside the drink.
+259,"In the picture, are the elderly people moving to the left or to the right? (a) Left (b) Right",(a),"In the picture, the elderly people are moving to the left."
+260,"In the picture, are the elderly people moving to the left or to the right? (a) Left (b) Right",(b),"In the picture, the elderly people are moving to the right."
+261,Is the person in the picture sitting on a black or white chair? (a) Black (b) White,(a),The person in the picture is sitting on a black chair.
+262,Is the person in the picture sitting on a black or white chair? (a) Black (b) White,(b),The person in the picture is sitting on a white chair.
+263,Is it a slice of cake or a whole cake in the picture? (a) Slice (b) Whole,(a),(a) Slice
+264,Is it a slice of cake or a whole cake in the picture? (a) Slice (b) Whole,(b),"It is a whole cake in the picture, not a slice."
+265,Is the shoe in the image tied or untied? (a) Tied (b) Untied,(a),The shoe in the image is tied.
+266,Is the shoe in the image tied or untied? (a) Tied (b) Untied,(b),The shoe in the image is untied.
+267,Is the child in the picture facing forward or in profile? (a) Facing forward (b) In profile,(a),The child in the picture is facing forward.
+268,Is the child in the picture facing forward or in profile? (a) Facing forward (b) In profile,(b),The child in the picture is facing forward.
+269,Is the wall behind the bed empty or is there a painting hanging on it? (a) Empty (b) A painting hanging on it,(a),(b) There is a painting hanging on the wall behind the bed.
+270,Is the wall behind the bed empty or is there a painting hanging on it? (a) Empty (b) A painting hanging on it,(b),There is a painting hanging on the wall behind the bed.
+271,Is the male in the picture wearing a shirt or a T-shirt? (a) Shirt (b) T-shirt,(a),The male in the picture is wearing a shirt.
+272,Is the male in the picture wearing a shirt or a T-shirt? (a) Shirt (b) T-shirt,(b),The male in the picture is wearing a shirt.
+273,What pattern is in the picture? (a) Pumpkin Lights (b) Bats,(a),"The pattern in the picture is a combination of pumpkin lights and bats. The image features a fence with pumpkin lights, and"
+274,What pattern is in the picture? (a) Pumpkin Lights (b) Bats,(b),The pattern in the picture is bats.
+275,How many trees are the treehouse built on? (a) One (b) More than one,(a),The treehouse is built on a single tree.
+276,How many trees are the treehouse built on? (a) One (b) More than one,(b),B
+277,What are all the letter in the image? (a) SUGAR (b) UGA,(a),"The letters in the image spell ""SUGAR."""
+278,What are all the letter in the image? (a) SUGAR (b) UGA,(b),"The letters in the image spell ""SUGAR."""
+279,Is the elderly person standing or sitting in the picture? (a) Standing (b) Sitting,(a),The elderly person is sitting on a bench in the picture.
+280,Is the elderly person standing or sitting in the picture? (a) Standing (b) Sitting,(b),The elderly person is standing in the picture.
+281,Are there drinks on the table? (a) Yes (b) No,(a),Yes
+282,Are there drinks on the table? (a) Yes (b) No,(b),Yes
+283,"In the image, is it a salmon fillet or a salmon steak? (a) Salmon fillet (b) Salmon steak",(a),"In the image, it is a salmon fillet."
+284,"In the image, is it a salmon fillet or a salmon steak? (a) Salmon fillet (b) Salmon steak",(b),"In the image, it is a salmon fillet."
+285,Do you see a yellow towel in the image? (a) Yes (b) No,(a),Yes
+286,Do you see a yellow towel in the image? (a) Yes (b) No,(b),Yes
+287,Is the cup placed on a surface or being held by hand? (a) Placed on a surface (b) Held by hand,(a),(a) Placed on a surface
+288,Is the cup placed on a surface or being held by hand? (a) Placed on a surface (b) Held by hand,(b),(a) Placed on a surface
+289,Is the following statement correct: There are different colors of grapes in the image. (a) Correct (b) Incorrect,(a),A) Correct
+290,Is the following statement correct: There are different colors of grapes in the image. (a) Correct (b) Incorrect,(b),"(a) Correct. The image shows a variety of grapes, including green and red ones, along with other fruits."
+291,Is the minion in the image smiling with its tongue out? (a) Yes (b) No,(a),"Yes, the minion in the image is smiling with its tongue out."
+292,Is the minion in the image smiling with its tongue out? (a) Yes (b) No,(b),"Yes, the minion in the image is smiling with its tongue out."
+293,Is the sports car in the picture facing left or right? (a) Left (b) Right,(a),The sports car in the picture is facing right.
+294,Is the sports car in the picture facing left or right? (a) Left (b) Right,(b),The sports car in the picture is facing right.
+295,Is the edge of the heart in the picture white or dark-colored? (a) White (b) Dark-colored,(a),(b) Dark-colored
+296,Is the edge of the heart in the picture white or dark-colored? (a) White (b) Dark-colored,(b),The edge of the heart in the picture is white.
+297,Are there patterns on the easter eggs? (a) Yes (b) No,(a),"Yes, there are patterns on the easter eggs."
+298,Are there patterns on the easter eggs? (a) Yes (b) No,(b),(b) No
+299,How would you describe the background of the image? (a) Light shining through the clouds from the upper right corner (b) Most of the background is dark and cloudy,(a),B) Most of the background is dark and cloudy.
+300,How would you describe the background of the image? (a) Light shining through the clouds from the upper right corner (b) Most of the background is dark and cloudy,(b),B) Most of the background is dark and cloudy.
