@@ -6,7 +6,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 5,Is the dog looking towards left or right? a) left b) right,a),The dog is looking towards the left.,1,yes
 6,Is the dog looking towards left or right? a) left b) right,b),The dog is looking towards the left.,0,no
 7,Is this the front view of the bus or the back view of the bus? a)front b)back,a),This is a front view of the bus.,1,yes
-8,Is this the front view of the bus or the back view of the bus? a)front b)back,b),This is the back view of the school bus.,0,no
+8,Is this the front view of the bus or the back view of the bus? a)front b)back,b),This is the back view of the school bus.,1,yes
 9,Is this the front view of the keybaord or the sideview of the keyboard? a)front b)side,a),This is a front view of the keyboard.,1,yes
 10,Is this the front view of the keybaord or the sideview of the keyboard? a)front b)side,b),This is a front view of the keyboard.,0,no
 11,Is the peacock's neck bent or straight? a)straight b)bent,a),The peacock's neck is bent.,0,no
@@ -38,7 +38,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 37,Are the white flowers behind the butterfly visible or no? a)yes b)no,b),A) Yes,0,no
 38,Are the white flowers behind the butterfly visible or no? a)yes b)no,a),A) Yes,1,yes
 39,Is the duck in the pond or on dryland? a) pond b) dryland,a),The duck is in the pond.,1,yes
-40,Is the duck in the pond or on dryland? a) pond b) dryland,b),"The duck is on dryland, standing on a rock in the water.",0,no
+40,Is the duck in the pond or on dryland? a) pond b) dryland,b),"The duck is on dryland, standing on a rock in the water.",1,yes
 41,Are the spider's legs orange? a)yes b)no,b),The spider's legs are not orange. The spider has a combination of yellow and brown colors.,1,yes
 42,Are the spider's legs orange? a)yes b)no,a),The spider's legs are orange.,1,yes
 43,How many buses are there in the image? a) one b) many,b),"There are many buses in the image, parked in a row.",1,yes
@@ -62,9 +62,9 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 61,Is the letter 'J' visible on the keyboard? a)yes b)no,a),"Yes, the letter 'J' is visible on the keyboard.",1,yes
 62,Is the letter 'J' visible on the keyboard? a)yes b)no,b),"Yes, the letter 'J' is visible on the keyboard.",0,no
 63,Is the background behind flowers mostly green? a)yes b)no,b),B) No,1,yes
-64,Is the background behind flowers mostly green? a)yes b)no,a),A) Yes,0,no
+64,Is the background behind flowers mostly green? a)yes b)no,a),A) Yes,1,yes
 65,Are the keys black or white? a)black b)white,b),The keys in the image are white.,1,yes
-66,Are the keys black or white? a)black b)white,a),The keys on the keyboard are black.,1,yes
+66,Are the keys black or white? a)black b)white,a),The keys on the keyboard are black.,0,no
 67,Are there any clouds in the sky? a)yes b)no,a),"Yes, there are clouds in the sky.",1,yes
 68,Are there any clouds in the sky? a)yes b)no,b),"No, there are no clouds in the sky.",1,yes
 69,Is the snake facing towards left or right? a) right b) left,b),The snake is facing towards the left.,1,yes
@@ -82,7 +82,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 81,Are there single or mutiple fishes? a) single b)multiple,a),There is a single fish in the image.,1,yes
 82,Are there single or mutiple fishes? a) single b)multiple,b),"There are multiple fishes in the image, including a shark and other fish swimming in the ocean.",1,yes
 83,Is the truck facing left or right? a) yes b)no,b),The truck is facing right.,0,no
-84,Is the truck facing left or right? a) yes b)no,a),The truck is facing right.,1,yes
+84,Is the truck facing left or right? a) yes b)no,a),The truck is facing right.,0,no
 85,Are the dog ears erected or drooping down? a)erected b)drooping down,a),"The dog's ears are erected, which indicates that the dog is alert and attentive to its surroundings.",1,yes
 86,Are the dog ears erected or drooping down? a)erected b)drooping down,b),The dog's ears are erected in the image.,0,no
 87,Is a wire visible in the image? a)yes b)no,a),"Yes, a wire is visible in the image, running from the keyboard to the computer.",1,yes
@@ -134,7 +134,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 133,Are 5 blue buttons present in center of the remote? a) yes b) no,b),"Yes, there are 5 blue buttons in the center of the remote.",0,no
 134,Are 5 blue buttons present in center of the remote? a) yes b) no,a),"Yes, there are 5 blue buttons in the center of the remote control.",1,yes
 135,How many glasses are there in the image? a) one b)multiple,a),There is only one glass in the image.,1,yes
-136,How many glasses are there in the image? a) one b)multiple,b),There are two glasses in the image.,0,no
+136,How many glasses are there in the image? a) one b)multiple,b),There are two glasses in the image.,1,yes
 137,Is the head of the snake lying on its body? a)yes b)no,a),A) Yes,1,yes
 138,Is the head of the snake lying on its body? a)yes b)no,b),"The head of the snake is not lying on its body. The snake is resting its head on a branch, with its body positioned",1,yes
 139,"Is the text ""LJ55 YEU"" visible in the image? a) yes b) no",b),"Yes, the text ""LJ55 YEU"" is visible on the side of the vehicle.",0,no
@@ -144,7 +144,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 143,Is the bug above or below its resting surface? a) above b) below,a),The bug is above its resting surface.,1,yes
 144,Is the bug above or below its resting surface? a) above b) below,b),The bug is above its resting surface.,0,no
 145,Is the glass filled more than 50%? a) yes b) no,b),"The glass is filled more than 50%, as it is described as being half full.",0,no
-146,Is the glass filled more than 50%? a) yes b) no,a),"The glass is filled more than 50%, as it is described as being half full.",0,no
+146,Is the glass filled more than 50%? a) yes b) no,a),"The glass is filled more than 50%, as it is described as being half full.",1,yes
 147,Is the head of the snake visible? a) yes b) no,a),"No, the head of the snake is not visible in the image.",0,no
 148,Is the head of the snake visible? a) yes b) no,b),"No, the head of the snake is not visible in the image.",1,yes
 149,What color is the piano structure? a) black b) brown,b),The piano structure is brown.,1,yes
@@ -169,13 +169,13 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 168,Are there any fruits or vegetables hanging in the air? a) yes b) no,a),"Yes, there are fruits and vegetables hanging in the air, as they are placed on a scale.",0,no
 169,Is the man on the backside of the woman or on the right side? a) backside b)rigthside,b),The man is on the right side of the woman.,1,yes
 170,Is the man on the backside of the woman or on the right side? a) backside b)rigthside,a),The man is on the right side of the woman.,0,no
-171,Is the snowman wearing a completely red cap? a) yes b) no,b),The snowman is wearing a black and red cap.,0,no
+171,Is the snowman wearing a completely red cap? a) yes b) no,b),The snowman is wearing a black and red cap.,1,yes
 172,Is the snowman wearing a completely red cap? a) yes b) no,a),"The snowman is wearing a red cap, but it is not completely red. The cap has a combination of red and white colors.",0,no
 173,Are the eggs placed in a nest? a) yes b) no,a),"Yes, the eggs are placed in a nest.",1,yes
 174,Are the eggs placed in a nest? a) yes b) no,b),"The eggs are not placed in a nest. They are sitting on top of grass, with a flower nearby.",1,yes
 175,Is the woman wearing shoes? a) yes b) no,b),The woman is not wearing shoes; she is barefoot on the red scale.,1,yes
 176,Is the woman wearing shoes? a) yes b) no,a),"The woman is wearing shoes, specifically white sandals.",1,yes
-177,How many people are there? a) 3 b) 4,b),"There are four people in the image: a man, a woman, and two children.",0,no
+177,How many people are there? a) 3 b) 4,b),"There are four people in the image: a man, a woman, and two children.",1,yes
 178,How many people are there? a) 3 b) 4,b),"There are four people in the image: a man, a woman, and two children.",1,yes
 179,What is the text written on the wall? a) MILLER MOTORCARS b) Miller Motorcars,a),"The text written on the wall is ""MILLER MOTORCARS.""",1,yes
 180,What is the text written on the wall? a) MILLER MOTORCARS b) Miller Motorcars,a),"The text written on the wall is ""MILLER MOTORCARS.""",1,yes
@@ -210,7 +210,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 209,Is this a top view of the glass? a) yes b) no,b),B) No,1,yes
 210,Is this a top view of the glass? a) yes b) no,a),B) No,0,no
 211,Is the red object being held in one hand? a) yes b) no,b),A) Yes,0,no
-212,Is the red object being held in one hand? a) yes b) no,a),A) Yes,0,no
+212,Is the red object being held in one hand? a) yes b) no,a),A) Yes,1,yes
 213,Is the snowman looking towards right or left? a) right b) left,b),The snowman is looking towards the right.,0,no
 214,Is the snowman looking towards right or left? a) right b) left,a),The snowman is looking towards the left.,0,no
 215,Is the sky visible? a) yes b) no,a),"Yes, the sky is visible in the image.",1,yes
@@ -261,7 +261,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 260,Are the people tilting towards right? a) yes b) no,a),"Yes, the people in the image are tilting towards the right.",1,yes
 261,How many people are present in the image? a) 5 b) 6,a),There are six people present in the image.,0,no
 262,How many people are present in the image? a) 5 b) 6,b),There are six people present in the image.,1,yes
-263,Is the cake sliced? a) yes b) no,a),A) Yes,0,no
+263,Is the cake sliced? a) yes b) no,a),A) Yes,1,yes
 264,Is the cake sliced? a) yes b) no,b),B) No,1,yes
 265,Is the person tying their shoelaces? a) yes b) no,b),"The person is not tying their shoelaces. They are walking down a road or a track, wearing black pants and black and white",1,yes
 266,Is the person tying their shoelaces? a) yes b) no,a),The person is tying their shoelaces.,1,yes

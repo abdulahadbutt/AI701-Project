@@ -22,7 +22,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 21,Is the duck's entire beak visible in the picture? (a) Yes (b) No,(a),"No, the duck's beak is not visible in the picture.",0,no
 22,Is the duck's entire beak visible in the picture? (a) Yes (b) No,(b),"No, the duck's beak is not visible in the picture.",0,no
 23,From which angle is this image taken? (a) Front (b) Side,(a),"The image is taken from an angle that shows the snake's head and neck, with the snake's body and tail not visible.",0,no
-24,From which angle is this image taken? (a) Front (b) Side,(b),"The image is taken from an angle that shows the snake's head and neck, with the snake's body and tail not visible.",0,no
+24,From which angle is this image taken? (a) Front (b) Side,(b),"The image is taken from an angle that shows the snake's head and neck, with the snake's body and tail not visible.",1,yes
 25,What color is the chicken's body? (a) Black (b) Red,(a),The chicken's body is black.,1,yes
 26,What color is the chicken's body? (a) Black (b) Red,(b),The chicken's body is red.,1,yes
 27,Is the peacock's head visible in the image? (a) Yes (b) No,(a),"Yes, the peacock's head is visible in the image.",1,yes
@@ -36,9 +36,9 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 35,Do the vegetables have spikes? (a) Yes (b) No,(a),(b) No,0,no
 36,Do the vegetables have spikes? (a) Yes (b) No,(b),(b) No,1,yes
 37,What color are the flowers in the background? (a) Pink (b) Violet,(a),The flowers in the background are pink.,1,yes
-38,What color are the flowers in the background? (a) Pink (b) Violet,(b),The flowers in the background are purple.,1,yes
+38,What color are the flowers in the background? (a) Pink (b) Violet,(b),The flowers in the background are purple.,0,no
 39,Is the duck floating? (a) Yes (b) No,(a),"Yes, the duck is floating in the water.",1,yes
-40,Is the duck floating? (a) Yes (b) No,(b),B,0,no
+40,Is the duck floating? (a) Yes (b) No,(b),B,1,yes
 41,"Based on the image, is the following statement correct: The spider has 8 legs? (a) Yes (b) No",(a),"Yes, the spider has 8 legs.",1,yes
 42,"Based on the image, is the following statement correct: The spider has 8 legs? (a) Yes (b) No",(b),"Yes, the spider has 8 legs.",0,no
 43,Are the wheels of the school bus visible in the image? (a) Yes (b) No,(a),"Yes, the wheels of the school bus are visible in the image.",1,yes
@@ -61,13 +61,13 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 60,Is the lock locked to the chain-linked fence? (a) Yes (b) No,(b),"Yes, the lock is locked to the chain-linked fence.",0,no
 61,"Can you see letter ""J"" in the image? (a) Yes (b) No",(a),Yes,1,yes
 62,"Can you see letter ""J"" in the image? (a) Yes (b) No",(b),No,1,yes
-63,"Is the following statement correct: In the image, there is one daisy that is under the shadow of a taller daisy.  (a) Correct (b) Incorrect",(a),"(b) Incorrect. The image shows a field of white daisies, and there is no indication of a taller daisy casting",0,no
+63,"Is the following statement correct: In the image, there is one daisy that is under the shadow of a taller daisy.  (a) Correct (b) Incorrect",(a),"(b) Incorrect. The image shows a field of white daisies, and there is no indication of a taller daisy casting",1,yes
 64,"Is the following statement correct: In the image, there is one daisy that is under the shadow of a taller daisy.  (a) Correct (b) Incorrect",(b),"(b) Incorrect. The image shows a group of white daisies in a field, but there is no indication of a taller",1,yes
 65,Is the following statement correct: There is no letter D on this image.  (a) Correct (b) Incorrect,(a),(b) Incorrect. The image shows a close-up of a keyboard with the letter D visible.,1,yes
 66,Is the following statement correct: There is no letter D on this image.  (a) Correct (b) Incorrect,(b),B) Incorrect. The image shows a close-up of a keyboard with the letter D visible.,1,yes
 67,Are there any clouds? (a) Yes (b) No,(a),Yes,1,yes
 68,Are there any clouds? (a) Yes (b) No,(b),No,1,yes
-69,Did the snake stick out its tongue and touch its skin? (a) Yes (b) No,(a),Yes,0,no
+69,Did the snake stick out its tongue and touch its skin? (a) Yes (b) No,(a),Yes,1,yes
 70,Did the snake stick out its tongue and touch its skin? (a) Yes (b) No,(b),Yes,0,no
 71,Is the lock locked or unlocked? (a) Locked (b) Unlocked,(a),"The lock is locked, as indicated by the red lock on the door.",1,yes
 72,Is the lock locked or unlocked? (a) Locked (b) Unlocked,(b),The lock in the image is locked.,0,no
@@ -115,7 +115,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 114,Do you see any window in this image? (a) Yes (b) No,(b),(b) No,1,yes
 115,Is the snail in the picture facing the camera or away from the camera? (a) Away from the camera (b) Facing the camera ,(a),The snail in the picture is facing the camera.,0,no
 116,Is the snail in the picture facing the camera or away from the camera? (a) Away from the camera (b) Facing the camera ,(b),The snail in the picture is facing away from the camera.,0,no
-117,How many eyes of the cat can you see in the picture? (a) 1 (b) 2,(a),"In the picture, you can see the cat's right eye.",0,no
+117,How many eyes of the cat can you see in the picture? (a) 1 (b) 2,(a),"In the picture, you can see the cat's right eye.",1,yes
 118,How many eyes of the cat can you see in the picture? (a) 1 (b) 2,(b),"In the picture, you can see the cat's two eyes.",1,yes
 119,"In this image, how many eyes can you see on the animal? (a) 1 (b) 2",(a),"In the image, there are two eyes visible on the bird.",0,no
 120,"In this image, how many eyes can you see on the animal? (a) 1 (b) 2",(b),"In the image, there are two eyes visible on the animal.",1,yes
@@ -199,7 +199,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 198,Is the person weighing themselves barefoot? (a) Yes (b) No,(b),"No, the person is not weighing themselves barefoot. They are wearing white sandals while standing on the scale.",1,yes
 199,Which type of eggs are in the corner of the picture? (a) Quail eggs (b) Chicken eggs ,(a),A) Quail eggs,1,yes
 200,Which type of eggs are in the corner of the picture? (a) Quail eggs (b) Chicken eggs ,(b),B) Chicken eggs are in the corner of the picture.,1,yes
-201,"What are the words in the image: (a) ""Happy Easter"" (b) ""Happy Easter!""",(a),"The words in the image are ""Happy Easter.""",0,no
+201,"What are the words in the image: (a) ""Happy Easter"" (b) ""Happy Easter!""",(a),"The words in the image are ""Happy Easter.""",1,yes
 202,"What are the words in the image: (a) ""Happy Easter"" (b) ""Happy Easter!""",(b),"The words in the image are ""Happy Easter!""",1,yes
 203,Are these oranges hanging on the tree? (a) Yes (b) No,(a),"Yes, these oranges are hanging on a tree.",1,yes
 204,Are these oranges hanging on the tree? (a) Yes (b) No,(b),"No, these oranges are not hanging on a tree. They are piled together in a group, sitting on a table or a surface.",1,yes
@@ -208,7 +208,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 207,Is the bell pepper in the picture red or yellow? (a) Red (b) Yellow,(a),The bell pepper in the picture is red.,1,yes
 208,Is the bell pepper in the picture red or yellow? (a) Red (b) Yellow,(b),The bell pepper in the picture is yellow.,1,yes
 209,Is there an orange with leaves next to the cup? (a) Yes (b) No,(a),Yes,1,yes
-210,Is there an orange with leaves next to the cup? (a) Yes (b) No,(b),B,0,no
+210,Is there an orange with leaves next to the cup? (a) Yes (b) No,(b),B,1,yes
 211,Is the heart-shaped object resting on the palm or being held by the fingers? (a) Palm (b) Fingers,(a),The heart-shaped object is being held by the fingers.,0,no
 212,Is the heart-shaped object resting on the palm or being held by the fingers? (a) Palm (b) Fingers,(b),The heart-shaped object is being held by the fingers of the person in the image.,1,yes
 213,Does the snowman have arms made of branches? (a) Yes (b) No,(a),"No, the snowman does not have arms made of branches. The snowman in the image has arms made of sticks.",0,no
@@ -288,7 +288,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 287,Is the cup placed on a surface or being held by hand? (a) Placed on a surface (b) Held by hand,(a),(a) Placed on a surface,1,yes
 288,Is the cup placed on a surface or being held by hand? (a) Placed on a surface (b) Held by hand,(b),(a) Placed on a surface,0,no
 289,Is the following statement correct: There are different colors of grapes in the image. (a) Correct (b) Incorrect,(a),A) Correct,1,yes
-290,Is the following statement correct: There are different colors of grapes in the image. (a) Correct (b) Incorrect,(b),"(a) Correct. The image shows a variety of grapes, including green and red ones, along with other fruits.",0,no
+290,Is the following statement correct: There are different colors of grapes in the image. (a) Correct (b) Incorrect,(b),"(a) Correct. The image shows a variety of grapes, including green and red ones, along with other fruits.",1,yes
 291,Is the minion in the image smiling with its tongue out? (a) Yes (b) No,(a),"Yes, the minion in the image is smiling with its tongue out.",1,yes
 292,Is the minion in the image smiling with its tongue out? (a) Yes (b) No,(b),"Yes, the minion in the image is smiling with its tongue out.",0,no
 293,Is the sports car in the picture facing left or right? (a) Left (b) Right,(a),The sports car in the picture is facing right.,0,no
@@ -296,6 +296,6 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 295,Is the edge of the heart in the picture white or dark-colored? (a) White (b) Dark-colored,(a),(b) Dark-colored,0,no
 296,Is the edge of the heart in the picture white or dark-colored? (a) White (b) Dark-colored,(b),The edge of the heart in the picture is white.,0,no
 297,Are there patterns on the easter eggs? (a) Yes (b) No,(a),"Yes, there are patterns on the easter eggs.",1,yes
-298,Are there patterns on the easter eggs? (a) Yes (b) No,(b),(b) No,0,no
-299,How would you describe the background of the image? (a) Light shining through the clouds from the upper right corner (b) Most of the background is dark and cloudy,(a),B) Most of the background is dark and cloudy.,0,no
+298,Are there patterns on the easter eggs? (a) Yes (b) No,(b),(b) No,1,yes
+299,How would you describe the background of the image? (a) Light shining through the clouds from the upper right corner (b) Most of the background is dark and cloudy,(a),B) Most of the background is dark and cloudy.,1,yes
 300,How would you describe the background of the image? (a) Light shining through the clouds from the upper right corner (b) Most of the background is dark and cloudy,(b),B) Most of the background is dark and cloudy.,1,yes

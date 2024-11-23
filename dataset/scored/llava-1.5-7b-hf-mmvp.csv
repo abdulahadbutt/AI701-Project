@@ -16,7 +16,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 15,Is there a shadow on the flower? (a) Yes (b) No,(a),"Yes, there is a shadow on the flower.",1,yes
 16,Is there a shadow on the flower? (a) Yes (b) No,(b),"Yes, there is a shadow on the flower.",0,no
 17,Is the front of the school bus protruding? (a) Yes (b) No,(a),Yes,1,yes
-18,Is the front of the school bus protruding? (a) Yes (b) No,(b),Yes,0,no
+18,Is the front of the school bus protruding? (a) Yes (b) No,(b),Yes,1,yes
 19,Can you see the dorsal fin of the animal? (a) Yes (b) No,(a),"Yes, you can see the dorsal fin of the animal in the image.",1,yes
 20,Can you see the dorsal fin of the animal? (a) Yes (b) No,(b),"Yes, you can see the dorsal fin of the animal in the image.",0,no
 21,Is the duck's entire beak visible in the picture? (a) Yes (b) No,(a),"Yes, the duck's entire beak is visible in the picture.",1,yes
@@ -40,7 +40,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 39,Is the duck floating? (a) Yes (b) No,(a),Yes,1,yes
 40,Is the duck floating? (a) Yes (b) No,(b),No,1,yes
 41,"Based on the image, is the following statement correct: The spider has 8 legs? (a) Yes (b) No",(a),"Yes, the statement is correct. The spider has eight legs.",1,yes
-42,"Based on the image, is the following statement correct: The spider has 8 legs? (a) Yes (b) No",(b),"Yes, the statement is correct. The spider has eight legs.",0,no
+42,"Based on the image, is the following statement correct: The spider has 8 legs? (a) Yes (b) No",(b),"Yes, the statement is correct. The spider has eight legs.",1,yes
 43,Are the wheels of the school bus visible in the image? (a) Yes (b) No,(a),"Yes, the wheels of the school bus are visible in the image.",1,yes
 44,Are the wheels of the school bus visible in the image? (a) Yes (b) No,(b),"Yes, the wheels of the school bus are visible in the image.",0,no
 45,Is the shark's belly visible in this image? (a) Yes (b) No,(a),"Yes, the shark's belly is visible in the image.",1,yes
@@ -63,8 +63,8 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 62,"Can you see letter ""J"" in the image? (a) Yes (b) No",(b),"Yes, the letter ""J"" is visible in the image.",0,no
 63,"Is the following statement correct: In the image, there is one daisy that is under the shadow of a taller daisy.  (a) Correct (b) Incorrect",(a),"Yes, the statement is correct. In the image, there is one daisy that is under the shadow of a taller daisy.",1,yes
 64,"Is the following statement correct: In the image, there is one daisy that is under the shadow of a taller daisy.  (a) Correct (b) Incorrect",(b),"Yes, the statement is correct. In the image, there is one daisy that is under the shadow of a taller daisy.",0,no
-65,Is the following statement correct: There is no letter D on this image.  (a) Correct (b) Incorrect,(a),(b) Incorrect,0,no
-66,Is the following statement correct: There is no letter D on this image.  (a) Correct (b) Incorrect,(b),(b) Incorrect,0,no
+65,Is the following statement correct: There is no letter D on this image.  (a) Correct (b) Incorrect,(a),(b) Incorrect,1,yes
+66,Is the following statement correct: There is no letter D on this image.  (a) Correct (b) Incorrect,(b),(b) Incorrect,1,yes
 67,Are there any clouds? (a) Yes (b) No,(a),Yes,1,yes
 68,Are there any clouds? (a) Yes (b) No,(b),No,1,yes
 69,Did the snake stick out its tongue and touch its skin? (a) Yes (b) No,(a),"Yes, the snake has stuck out its tongue and touched its skin.",1,yes
@@ -134,7 +134,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 133,What does the center button say? (a) OK/SELECT (b) OK,(a),"The center button says ""OK/SELECT.""",1,yes
 134,What does the center button say? (a) OK/SELECT (b) OK,(b),"The center button says ""OK"" on it.",1,yes
 135,How many cup(s) of drink are there in the image? (a) 1 (b) 2,(a),There is only one cup of drink in the image.,1,yes
-136,How many cup(s) of drink are there in the image? (a) 1 (b) 2,(b),There are two glasses of drink in the image.,1,yes
+136,How many cup(s) of drink are there in the image? (a) 1 (b) 2,(b),There are two glasses of drink in the image.,0,no
 137,"In the picture, how is the snake primarily positioned? (a) Coiled (b) Head extended",(a),"In the picture, the snake is primarily positioned with its head extended.",0,no
 138,"In the picture, how is the snake primarily positioned? (a) Coiled (b) Head extended",(b),"In the picture, the snake is primarily positioned with its head extended.",1,yes
 139,Can you see the side windows of the vehicles? (a) Yes (b) No,(a),"Yes, the side windows of the vehicles are visible in the image.",1,yes
@@ -183,7 +183,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 182,Is the stripe in the middle of the car blue or white? (a) Blue (b) White,(b),The stripe in the middle of the car is blue.,0,no
 183,Are the teddy bears holding hands or leaning against each other? (a) Holding hands (b) Leaning against,(a),The teddy bears are leaning against each other.,0,no
 184,Are the teddy bears holding hands or leaning against each other? (a) Holding hands (b) Leaning against,(b),The teddy bears are leaning against each other.,1,yes
-185,Is the person in the picture already standing on the weighing scale? (a) Yes (b) No,(a),Yes,0,no
+185,Is the person in the picture already standing on the weighing scale? (a) Yes (b) No,(a),Yes,1,yes
 186,Is the person in the picture already standing on the weighing scale? (a) Yes (b) No,(b),Yes,0,no
 187,"In the picture, is the person stretching out one arm or both arms above their head? (a) One arm (b) Both arms",(a),"In the picture, the person is stretching out both arms above their head.",0,no
 188,"In the picture, is the person stretching out one arm or both arms above their head? (a) One arm (b) Both arms",(b),"In the picture, the person is stretching out both arms above their head.",1,yes
@@ -193,7 +193,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 192,Is there a flower next to the Easter egg in the picture? (a) Yes (b) No,(b),"Yes, there is a flower next to the Easter egg in the picture.",0,no
 193,Are these vegetables placed on the floor or on the soil? (a) Floor (b) Soil,(a),"These vegetables are placed on the floor, not in the soil.",1,yes
 194,Are these vegetables placed on the floor or on the soil? (a) Floor (b) Soil,(b),"The vegetables are placed on the soil, not on the floor.",1,yes
-195,Are juice and all carrots on the same surface? (a) Yes (b) No,(a),Yes,0,no
+195,Are juice and all carrots on the same surface? (a) Yes (b) No,(a),Yes,1,yes
 196,Are juice and all carrots on the same surface? (a) Yes (b) No,(b),"Yes, the juice and all the carrots are on the same surface.",0,no
 197,Is the person weighing themselves barefoot? (a) Yes (b) No,(a),"Yes, the person is weighing themselves barefoot on the scale.",1,yes
 198,Is the person weighing themselves barefoot? (a) Yes (b) No,(b),"Yes, the person is weighing themselves barefoot.",0,no
@@ -298,4 +298,4 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 297,Are there patterns on the easter eggs? (a) Yes (b) No,(a),"Yes, there are patterns on the easter eggs.",1,yes
 298,Are there patterns on the easter eggs? (a) Yes (b) No,(b),"Yes, there are patterns on the easter eggs.",0,no
 299,How would you describe the background of the image? (a) Light shining through the clouds from the upper right corner (b) Most of the background is dark and cloudy,(a),"The background of the image is dark and cloudy, with a few buildings visible in the distance.",0,no
-300,How would you describe the background of the image? (a) Light shining through the clouds from the upper right corner (b) Most of the background is dark and cloudy,(b),"The background of the image is dark and cloudy, with a few buildings visible in the distance.",0,no
+300,How would you describe the background of the image? (a) Light shining through the clouds from the upper right corner (b) Most of the background is dark and cloudy,(b),"The background of the image is dark and cloudy, with a few buildings visible in the distance.",1,yes

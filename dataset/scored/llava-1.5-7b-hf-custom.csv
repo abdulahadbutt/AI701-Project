@@ -54,7 +54,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 53,Are there colored medicine tablets in the picture or just white? a)multi-colored b)just white,b),The image shows a white pill bottle with white pills inside. There are no colored medicine tablets in the picture.,1,yes
 54,Are there colored medicine tablets in the picture or just white? a)multi-colored b)just white,a),"The picture shows a variety of colored medicine tablets, including red, yellow, blue, and green.",1,yes
 55,Are the bannanas covering the whole image frame? a) yes b) no,b),"No, the bananas are not covering the whole image frame. They are positioned in the lower half of the image, with the top half being",1,yes
-56,Are the bannanas covering the whole image frame? a) yes b) no,a),"No, the bannanas are not covering the whole image frame. There is a gap between the bannanas and the edges of the image.",0,no
+56,Are the bannanas covering the whole image frame? a) yes b) no,a),"No, the bannanas are not covering the whole image frame. There is a gap between the bannanas and the edges of the image.",1,yes
 57,Is the allegator in water or on land? a)water b)land,a),The alligator is in the water.,1,yes
 58,Is the allegator in water or on land? a)water b)land,b),The alligator is in the water.,0,no
 59,Are there any chains on the lock? a)yes b)no,b),"Yes, there are chains on the lock.",0,no
@@ -149,7 +149,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 148,Is the head of the snake visible? a) yes b) no,b),"No, the head of the snake is not visible in the image.",1,yes
 149,What color is the piano structure? a) black b) brown,b),The piano structure is brown.,1,yes
 150,What color is the piano structure? a) black b) brown,a),The piano structure is black.,1,yes
-151,Is the sun in front of the running woman? a) yes b) no,a),"No, the sun is not in front of the running woman. The sun is behind her, creating a silhouette effect.",0,no
+151,Is the sun in front of the running woman? a) yes b) no,a),"No, the sun is not in front of the running woman. The sun is behind her, creating a silhouette effect.",1,yes
 152,Is the sun in front of the running woman? a) yes b) no,a),"No, the sun is not in front of the running woman. The sun is behind her, creating a beautiful backdrop for the scene.",0,no
 153,Are there any white vegatables present in the image? a) yes b) no,a),"Yes, there are white vegetables present in the image, including onions and garlic.",1,yes
 154,Are there any white vegatables present in the image? a) yes b) no,b),"Yes, there are white vegetables present in the image.",0,no
@@ -176,7 +176,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 175,Is the woman wearing shoes? a) yes b) no,b),No,1,yes
 176,Is the woman wearing shoes? a) yes b) no,a),"Yes, the woman is wearing shoes.",1,yes
 177,How many people are there? a) 3 b) 4,b),There are four people in the image.,1,yes
-178,How many people are there? a) 3 b) 4,b),"There are four people in the image: a man, a woman, and two children.",0,no
+178,How many people are there? a) 3 b) 4,b),"There are four people in the image: a man, a woman, and two children.",1,yes
 179,What is the text written on the wall? a) MILLER MOTORCARS b) Miller Motorcars,a),"The text written on the wall is ""Miller Motorcars.""",0,no
 180,What is the text written on the wall? a) MILLER MOTORCARS b) Miller Motorcars,a),"The text written on the wall is ""Miller Motorcars.""",0,no
 181,Is there smoke in the background of the car? a) yes b) no,a),No,0,no
@@ -202,7 +202,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 201,What is the text in the image? a) Happy Easter b) Happy Easter!,a),"The text in the image is ""Happy Easter!""",0,no
 202,What is the text in the image? a) Happy Easter b) Happy Easter!,b),"The text in the image is ""Happy Easter!""",1,yes
 203,Is the number of leaves greater than the number of oranges? a) yes b) no,a),No.,0,no
-204,Is the number of leaves greater than the number of oranges? a) yes b) no,b),"No, the number of leaves is less than the number of oranges.",1,yes
+204,Is the number of leaves greater than the number of oranges? a) yes b) no,b),"No, the number of leaves is less than the number of oranges.",0,no
 205,Is the person holding the glass from the side or from the bottom? a) side b) bottom,a),The person is holding the glass from the side.,1,yes
 206,Is the person holding the glass from the side or from the bottom? a) side b) bottom,b),The person is holding the glass from the side.,0,no
 207,Is this a top view of the basket? a) yes b) no,b),"Yes, this is a top view of the basket.",0,no
@@ -264,7 +264,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 263,Is the cake sliced? a) yes b) no,a),"Yes, the cake is sliced.",1,yes
 264,Is the cake sliced? a) yes b) no,b),"Yes, the cake is sliced.",0,no
 265,Is the person tying their shoelaces? a) yes b) no,b),"No, the person is not tying their shoelaces. They are walking on a path with their shoes already tied.",1,yes
-266,Is the person tying their shoelaces? a) yes b) no,a),"Yes, the person is tying their shoelaces while walking.",0,no
+266,Is the person tying their shoelaces? a) yes b) no,a),"Yes, the person is tying their shoelaces while walking.",1,yes
 267,Is the kid to the left of the adult? a) yes b) no,a),No,0,no
 268,Is the kid to the left of the adult? a) yes b) no,b),No,1,yes
 269,Is there a window present in the image? a) yes b) no,b),"Yes, there is a window present in the image.",0,no

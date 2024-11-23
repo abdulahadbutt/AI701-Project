@@ -38,7 +38,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 37,Are the white flowers behind the butterfly visible or no? a)yes b)no,b),No,1,yes
 38,Are the white flowers behind the butterfly visible or no? a)yes b)no,a),Yes,1,yes
 39,Is the duck in the pond or on dryland? a) pond b) dryland,a),The duck is in the pond.,1,yes
-40,Is the duck in the pond or on dryland? a) pond b) dryland,b),"The duck is on dryland, standing on a rock in the water.",0,no
+40,Is the duck in the pond or on dryland? a) pond b) dryland,b),"The duck is on dryland, standing on a rock in the water.",1,yes
 41,Are the spider's legs orange? a)yes b)no,b),B,1,yes
 42,Are the spider's legs orange? a)yes b)no,a),A) Yes,1,yes
 43,How many buses are there in the image? a) one b) many,b),"There are many buses in the image, parked next to each other in a row.",1,yes
@@ -62,12 +62,12 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 61,Is the letter 'J' visible on the keyboard? a)yes b)no,a),Yes,1,yes
 62,Is the letter 'J' visible on the keyboard? a)yes b)no,b),Yes,0,no
 63,Is the background behind flowers mostly green? a)yes b)no,b),A) Yes,0,no
-64,Is the background behind flowers mostly green? a)yes b)no,a),A) Yes,0,no
+64,Is the background behind flowers mostly green? a)yes b)no,a),A) Yes,1,yes
 65,Are the keys black or white? a)black b)white,b),The keys are white.,1,yes
 66,Are the keys black or white? a)black b)white,a),The keys are black.,1,yes
 67,Are there any clouds in the sky? a)yes b)no,a),Yes,1,yes
-68,Are there any clouds in the sky? a)yes b)no,b),B,0,no
-69,Is the snake facing towards left or right? a) right b) left,b),B,0,no
+68,Are there any clouds in the sky? a)yes b)no,b),B,1,yes
+69,Is the snake facing towards left or right? a) right b) left,b),B,1,yes
 70,Is the snake facing towards left or right? a) right b) left,a),A) right,1,yes
 71,Is the lock closed or open? a) closed b)open,a),"The lock is closed, with the keyhole facing the camera.",1,yes
 72,Is the lock closed or open? a) closed b)open,b),The lock is closed.,0,no
@@ -78,29 +78,29 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 77,Is the water light blue or dark blue? a) light blue b) darkblue,b),The water is light blue.,0,no
 78,Is the water light blue or dark blue? a) light blue b) darkblue,a),The water is dark blue.,0,no
 79,Is the snake's head lying on its body? a) yes b) no,a),B,0,no
-80,Is the snake's head lying on its body? a) yes b) no,b),B,0,no
+80,Is the snake's head lying on its body? a) yes b) no,b),B,1,yes
 81,Are there single or mutiple fishes? a) single b)multiple,a),A) single,1,yes
 82,Are there single or mutiple fishes? a) single b)multiple,b),B) Multiple,1,yes
-83,Is the truck facing left or right? a) yes b)no,b),No,1,yes
+83,Is the truck facing left or right? a) yes b)no,b),No,0,no
 84,Is the truck facing left or right? a) yes b)no,a),No,0,no
 85,Are the dog ears erected or drooping down? a)erected b)drooping down,a),The dog ears are erected in the image.,1,yes
 86,Are the dog ears erected or drooping down? a)erected b)drooping down,b),The dog's ears are drooping down in the image.,1,yes
 87,Is a wire visible in the image? a)yes b)no,a),"Yes, a wire is visible in the image, running behind the keyboard.",1,yes
 88,Is a wire visible in the image? a)yes b)no,b),No,1,yes
-89,Are there trees present in front of the mosque? a)yes b)no,b),B,0,no
+89,Are there trees present in front of the mosque? a)yes b)no,b),B,1,yes
 90,Are there trees present in front of the mosque? a)yes b)no,a),Yes,1,yes
 91,What is the text written on the side of the van? a)POLIZEI b)POLICE,a),"The text written on the side of the van is ""POLICE.""",0,no
 92,What is the text written on the side of the van? a)POLIZEI b)POLICE,a),"The text written on the side of the van is ""POLICE.""",0,no
-93,Is the computer screen visible? a)yes b) no,b),B,0,no
+93,Is the computer screen visible? a)yes b) no,b),B,1,yes
 94,Is the computer screen visible? a)yes b) no,a),No,0,no
 95,Is this top view of the web or side view? a)toop b)side,a),A) Top view,1,yes
 96,Is this top view of the web or side view? a)toop b)side,b),Top view of the web,0,no
 97,Is the keyboard inclined from the surface? a)yes b)no,b),B,1,yes
 98,Is the keyboard inclined from the surface? a)yes b)no,a),Yes,1,yes
 99,Are there any clouds in the sky? a)yes b)no,a),Yes,1,yes
-100,Are there any clouds in the sky? a)yes b)no,b),B,0,no
+100,Are there any clouds in the sky? a)yes b)no,b),B,1,yes
 101,Is the girl with the ball raising both her hands above the head? a)yes b)no,b),A) Yes,0,no
-102,Is the girl with the ball raising both her hands above the head? a)yes b)no,a),A) Yes,0,no
+102,Is the girl with the ball raising both her hands above the head? a)yes b)no,a),A) Yes,1,yes
 103,Is the syring facing upwards or downwards? a)upwards b)downwards,a),The syringe is facing upwards in the image.,1,yes
 104,Is the syring facing upwards or downwards? a)upwards b)downwards,b),The syringe is facing upwards in the image.,0,no
 105,How many apples are there in the image? a) single b) multiple,b),There is a single green apple in the image.,0,no
@@ -109,7 +109,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 108,Does the butterfly has antennas? a) yes b)no,b),Yes,0,no
 109,Are the bird's wings facing upwards or downwards? a) upwards b) downwards,a),The bird's wings are facing upwards in the image.,1,yes
 110,Are the bird's wings facing upwards or downwards? a) upwards b) downwards,b),"The bird's wings are facing upwards, as it is flying through the air.",0,no
-111,Is the grass green or yellow? a)green b)yellow,b),B) Yellow,0,no
+111,Is the grass green or yellow? a)green b)yellow,b),B) Yellow,1,yes
 112,Is the grass green or yellow? a)green b)yellow,a),The grass is green in the image.,1,yes
 113,Is there a window present in the image? a) yes b)no,a),Yes,1,yes
 114,Is there a window present in the image? a) yes b)no,b),No,1,yes
@@ -120,27 +120,27 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 119,Is this the front view of the eagle or the side view? a)front b)side,b),The image shows the front view of the eagle.,0,no
 120,Is this the front view of the eagle or the side view? a)front b)side,a),This is a front view of the eagle.,1,yes
 121,Is the corn wrapped around in its leaves? a)yes b)no,a),B,0,no
-122,Is the corn wrapped around in its leaves? a)yes b)no,b),B,0,no
+122,Is the corn wrapped around in its leaves? a)yes b)no,b),B,1,yes
 123,Is the duck in water? a)yes b)no,b),B) No,1,yes
-124,Is the duck in water? a)yes b)no,a),A) Yes,0,no
+124,Is the duck in water? a)yes b)no,a),A) Yes,1,yes
 125,Is there are single person in the image? a) yes b)no,a),"No, there is a single person in the image, a woman sitting in a movie theater.",0,no
 126,Is there are single person in the image? a) yes b)no,b),"No, there are two people in the image.",1,yes
 127,Is the stem of the flower visible? a) yes b)no,b),Yes,0,no
 128,Is the stem of the flower visible? a) yes b)no,a),Yes,1,yes
 129,Is the text 'SCHOOL BUS' completely visible? a) yes b)no,a),B) No,0,no
 130,Is the text 'SCHOOL BUS' completely visible? a) yes b)no,b),B) No,1,yes
-131,Is the brown dog's head towards left or right or left of black dog? a)right b)left,b),B,0,no
+131,Is the brown dog's head towards left or right or left of black dog? a)right b)left,b),B,1,yes
 132,Is the brown dog's head towards left or right or left of black dog? a)right b)left,a),B,0,no
 133,Are 5 blue buttons present in center of the remote? a) yes b) no,b),A) Yes,0,no
 134,Are 5 blue buttons present in center of the remote? a) yes b) no,a),A) Yes,1,yes
 135,How many glasses are there in the image? a) one b)multiple,a),There is only one glass in the image.,1,yes
-136,How many glasses are there in the image? a) one b)multiple,b),There are two glasses in the image.,0,no
+136,How many glasses are there in the image? a) one b)multiple,b),There are two glasses in the image.,1,yes
 137,Is the head of the snake lying on its body? a)yes b)no,a),A) Yes,1,yes
-138,Is the head of the snake lying on its body? a)yes b)no,b),B,0,no
+138,Is the head of the snake lying on its body? a)yes b)no,b),B,1,yes
 139,"Is the text ""LJ55 YEU"" visible in the image? a) yes b) no",b),A) Yes,0,no
 140,"Is the text ""LJ55 YEU"" visible in the image? a) yes b) no",a),A) Yes,1,yes
 141,Is the elephant trunk rising? a) yes b) no,a),B,0,no
-142,Is the elephant trunk rising? a) yes b) no,b),B,0,no
+142,Is the elephant trunk rising? a) yes b) no,b),B,1,yes
 143,Is the bug above or below its resting surface? a) above b) below,a),B) below,0,no
 144,Is the bug above or below its resting surface? a) above b) below,b),B) below,1,yes
 145,Is the glass filled more than 50%? a) yes b) no,b),A) Yes,0,no
@@ -162,7 +162,7 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 161,Is the table light brown or dark brown? a)light brown b) dark brown,a),The table is light brown.,1,yes
 162,Is the table light brown or dark brown? a)light brown b) dark brown,b),The table is light brown.,0,no
 163,"Behind the tree, is there a gap between the two wndows? a) yes b) no",b),Yes,0,no
-164,"Behind the tree, is there a gap between the two wndows? a) yes b) no",a),Yes,0,no
+164,"Behind the tree, is there a gap between the two wndows? a) yes b) no",a),Yes,1,yes
 165,Is the bread towards the right or left of glass of juice? a) right b) left,a),Right,1,yes
 166,Is the bread towards the right or left of glass of juice? a) right b) left,b),B) Left,1,yes
 167,Are there any fruits or vegetables hanging in the air? a) yes b) no,b),No,1,yes
@@ -173,15 +173,15 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 172,Is the snowman wearing a completely red cap? a) yes b) no,a),No,0,no
 173,Are the eggs placed in a nest? a) yes b) no,a),Yes,1,yes
 174,Are the eggs placed in a nest? a) yes b) no,b),No,1,yes
-175,Is the woman wearing shoes? a) yes b) no,b),B,0,no
+175,Is the woman wearing shoes? a) yes b) no,b),B,1,yes
 176,Is the woman wearing shoes? a) yes b) no,a),A) Yes,1,yes
-177,How many people are there? a) 3 b) 4,b),"There are four people in the image: a man, a woman, and two children.",0,no
+177,How many people are there? a) 3 b) 4,b),"There are four people in the image: a man, a woman, and two children.",1,yes
 178,How many people are there? a) 3 b) 4,b),"There are three people in the image: a man, a woman, and a child.",0,no
 179,What is the text written on the wall? a) MILLER MOTORCARS b) Miller Motorcars,a),a) MILLER MOTORCARS,1,yes
 180,What is the text written on the wall? a) MILLER MOTORCARS b) Miller Motorcars,a),a) MILLER MOTORCARS,1,yes
 181,Is there smoke in the background of the car? a) yes b) no,a),B,0,no
 182,Is there smoke in the background of the car? a) yes b) no,b),B,1,yes
-183,Is the bear with the cap towards the right or on left of the other teddy bear? a)right b)left,b),B,0,no
+183,Is the bear with the cap towards the right or on left of the other teddy bear? a)right b)left,b),B,1,yes
 184,Is the bear with the cap towards the right or on left of the other teddy bear? a)right b)left,a),A) right,1,yes
 185,Are both feet on the weighing machine? a) yes b) no,a),No,0,no
 186,Are both feet on the weighing machine? a) yes b) no,b),No,1,yes
@@ -193,13 +193,13 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 192,Are the eggs grouped together or far apart? a)grouped b) far apart,b),"The eggs are grouped together, sitting on the grass.",0,no
 193,Is there a wooden fence present in the picture? a) yes b) no,b),B,1,yes
 194,Is there a wooden fence present in the picture? a) yes b) no,a),Yes,1,yes
-195,Is any carrot near the glass sliced? a) yes b) no,a),Yes,0,no
+195,Is any carrot near the glass sliced? a) yes b) no,a),Yes,1,yes
 196,Is any carrot near the glass sliced? a) yes b) no,b),A) Yes,0,no
-197,Is the woman weearing shoes? a) yes b) no,b),B,0,no
+197,Is the woman weearing shoes? a) yes b) no,b),B,1,yes
 198,Is the woman weearing shoes? a) yes b) no,a),B,0,no
 199,Is there a black background? a) yes b) no,a),Yes,1,yes
 200,Is there a black background? a) yes b) no,b),No,1,yes
-201,What is the text in the image? a) Happy Easter b) Happy Easter!,a),b) Happy Easter!,0,no
+201,What is the text in the image? a) Happy Easter b) Happy Easter!,a),b) Happy Easter!,1,yes
 202,What is the text in the image? a) Happy Easter b) Happy Easter!,b),"The text in the image is ""Happy Easter!""",1,yes
 203,Is the number of leaves greater than the number of oranges? a) yes b) no,a),No,0,no
 204,Is the number of leaves greater than the number of oranges? a) yes b) no,b),No,1,yes
@@ -208,13 +208,13 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 207,Is this a top view of the basket? a) yes b) no,b),A) Yes,0,no
 208,Is this a top view of the basket? a) yes b) no,a),A) Yes,1,yes
 209,Is this a top view of the glass? a) yes b) no,b),B,1,yes
-210,Is this a top view of the glass? a) yes b) no,a),A) Yes,0,no
-211,Is the red object being held in one hand? a) yes b) no,b),B,0,no
+210,Is this a top view of the glass? a) yes b) no,a),A) Yes,1,yes
+211,Is the red object being held in one hand? a) yes b) no,b),B,1,yes
 212,Is the red object being held in one hand? a) yes b) no,a),B,0,no
 213,Is the snowman looking towards right or left? a) right b) left,b),A) Right,0,no
 214,Is the snowman looking towards right or left? a) right b) left,a),B,0,no
 215,Is the sky visible? a) yes b) no,a),Yes,1,yes
-216,Is the sky visible? a) yes b) no,b),B,0,no
+216,Is the sky visible? a) yes b) no,b),B,1,yes
 217,Is the knife cutting a vegetable? a) yes b) no,b),Yes,0,no
 218,Is the knife cutting a vegetable? a) yes b) no,a),Yes,1,yes
 219,Is the sun behind the person or infront of the person? a) in front b) behind,b),B) Behind,1,yes
@@ -250,22 +250,22 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 249,Is there a slice missing from the cake? a) yes b) no,a),Yes,1,yes
 250,Is there a slice missing from the cake? a) yes b) no,b),No,1,yes
 251,Is there a straw present in the glass? a) yes b) no,a),B,0,no
-252,Is there a straw present in the glass? a) yes b) no,b),B,0,no
-253,Is the sweater red? a) yes b) no,b),B,0,no
-254,Is the sweater red? a) yes b) no,a),A) Yes,0,no
+252,Is there a straw present in the glass? a) yes b) no,b),B,1,yes
+253,Is the sweater red? a) yes b) no,b),B,1,yes
+254,Is the sweater red? a) yes b) no,a),A) Yes,1,yes
 255,Are the cookies placed on a black grill? a) yes b) no,b),No,1,yes
 256,Are the cookies placed on a black grill? a) yes b) no,a),B) No,0,no
 257,Is there a lemon placed inside the glass? a) yes b) no,a),B,0,no
-258,Is there a lemon placed inside the glass? a) yes b) no,b),B,0,no
+258,Is there a lemon placed inside the glass? a) yes b) no,b),B,1,yes
 259,Are the people tilting towards right? a) yes b) no,b),A) Yes,0,no
 260,Are the people tilting towards right? a) yes b) no,a),Yes,1,yes
 261,How many people are present in the image? a) 5 b) 6,a),There are six people present in the image.,0,no
 262,How many people are present in the image? a) 5 b) 6,b),There are six people present in the image.,1,yes
 263,Is the cake sliced? a) yes b) no,a),Yes,1,yes
 264,Is the cake sliced? a) yes b) no,b),Yes,0,no
-265,Is the person tying their shoelaces? a) yes b) no,b),B,0,no
+265,Is the person tying their shoelaces? a) yes b) no,b),B,1,yes
 266,Is the person tying their shoelaces? a) yes b) no,a),B,0,no
-267,Is the kid to the left of the adult? a) yes b) no,a),A) Yes,0,no
+267,Is the kid to the left of the adult? a) yes b) no,a),A) Yes,1,yes
 268,Is the kid to the left of the adult? a) yes b) no,b),No,1,yes
 269,Is there a window present in the image? a) yes b) no,b),No,1,yes
 270,Is there a window present in the image? a) yes b) no,a),Yes,1,yes
@@ -277,8 +277,8 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 276,Are the stairs curved or straight? a) straight b) curved,a),The stairs in the image are curved.,0,no
 277,What is the text in the image? a) SUGAR b) UGA,a),a) SUGAR,1,yes
 278,What is the text in the image? a) SUGAR b) UGA,b),"The text in the image is ""SUGAR.""",0,no
-279,Is the kid in front of the old person Is the kid in front of the old person a) yes b) no,a),A,0,no
-280,Is the kid in front of the old person Is the kid in front of the old person a) yes b) no,b),A,0,no
+279,Is the kid in front of the old person Is the kid in front of the old person a) yes b) no,a),A,1,yes
+280,Is the kid in front of the old person Is the kid in front of the old person a) yes b) no,b),A,1,yes
 281,How many people are there in the image? a) 4 b) 3,a),There are four people in the image: a woman and three children.,1,yes
 282,How many people are there in the image? a) 4 b) 3,b),"There are three people in the image: a man, a woman, and a child.",1,yes
 283,Is the food placed on a white surface? a) yes b) no,b),No,1,yes
@@ -286,14 +286,14 @@ Index,Question,Correct Answer,Response,Score,GPT_Grade
 285,Is there an apple presnt in the image? a) yes b) no,a),Yes,1,yes
 286,Is there an apple presnt in the image? a) yes b) no,b),No,1,yes
 287,Is ther smoke coming out of the cup? a) yes b) no,a),A) Yes,1,yes
-288,Is ther smoke coming out of the cup? a) yes b) no,b),B,0,no
+288,Is ther smoke coming out of the cup? a) yes b) no,b),B,1,yes
 289,Are there any sliced fruits in the image? a) yes b) no,b),No,1,yes
 290,Are there any sliced fruits in the image? a) yes b) no,a),Yes,1,yes
 291,How many eyes does the character have? a) 1 b) 2,a),The character has two eyes.,0,no
 292,How many eyes does the character have? a) 1 b) 2,b),The character has two eyes.,1,yes
-293,"Does the text in the image read ""MILLER MOTORCARS""? a) yes b) no",a),A) Yes,0,no
+293,"Does the text in the image read ""MILLER MOTORCARS""? a) yes b) no",a),A) Yes,1,yes
 294,"Does the text in the image read ""MILLER MOTORCARS""? a) yes b) no",a),A) Yes,1,yes
-295,Do the hearts carry a white outline? a) yes b) no,a),Yes,0,no
+295,Do the hearts carry a white outline? a) yes b) no,a),Yes,1,yes
 296,Do the hearts carry a white outline? a) yes b) no,b),No,1,yes
 297,Are the eggs placed in a nest? a) yes b) no,b),No,1,yes
 298,Are the eggs placed in a nest? a) yes b) no,a),Yes,1,yes
